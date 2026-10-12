@@ -1,0 +1,23 @@
+# Local (non-Colab) usage. Install a CUDA build of PyTorch first: https://pytorch.org/get-started/locally/
+torch
+omegaconf
+einops
+transformers
+huggingface_hub
+trimesh
+networkx
+rembg
+onnxruntime
+imageio[ffmpeg]
+xatlas
+moderngl
+fast-simplification
+scikit-image
+scipy
+plotly
+gradio
+pandas
+matplotlib
+tqdm
+git+https://github.com/tatsy/torchmcubes.git
+# TripoSR source: git clone https://github.com/VAST-AI-Research/TripoSR.git and add it to PYTHONPATH
