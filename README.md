@@ -5,8 +5,6 @@
 
 A reproducible, research-oriented Google Colab notebook that turns **one photo** into a **3D mesh** with a feed-forward Large Reconstruction Model ([TripoSR](https://github.com/VAST-AI-Research/TripoSR)) and adds the tooling researchers usually have to build themselves: mesh cleanup, texture baking, evaluation metrics, batch benchmarking and ablation sweeps.
 
-> 🔁 Replace `YOUR_USERNAME` in the badge link above with your GitHub username after you push this repository.
-
 ---
 
 ## ✨ Features
